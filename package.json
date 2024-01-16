@@ -1,0 +1,25 @@
+{
+  "name": "SocialMediaNetworkAPIBackEndNoSQL",
+  "version": "1.0.0",
+  "description": "## Table of Contents",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Everyone1138/SocialMediaNetworkAPIBackEndNoSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Everyone1138/SocialMediaNetworkAPIBackEndNoSQL/issues"
+  },
+  "homepage": "https://github.com/Everyone1138/SocialMediaNetworkAPIBackEndNoSQL#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9"
+  }
+}
